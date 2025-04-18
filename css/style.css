@@ -1,0 +1,17 @@
+:root {
+    padding: 0;
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+    color: white;
+    box-sizing: border-box;
+}
+body {
+    background: radial-gradient(circle at top left, #1a1a2e, #0e0e0e 70%);
+    background-attachment: fixed;
+}
+
+.down {
+    border: solid #d4bfff;
+    border-width: 0 2px 2px 0;
+    padding: 5px;
+}
